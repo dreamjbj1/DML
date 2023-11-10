@@ -3,7 +3,7 @@
 - 팀장 : 전범준
 - 팀원 : 유수현, 손범규, 유청하, 염호준
 #
-#
+
 ## 📖 Contents
 1. 프로젝트 소개
 2. 설계의 주안점
@@ -40,7 +40,7 @@
 |팀원 유수현|시퀀스 다이어그램 제작<br> Spring 기본 구성 설정<br> 소셜 로그인 API 연동(네이버, 구글, 카카오) <br>로그인<br> 회원가입<br> 아이디 찾기<br> 비밀번호 찾기<br> 마이페이지<br> Admin 페이지 페이지 및 기능 구현 <br>인터셉터를 이용하여 페이지 접근 제한 기능 구현|
 |팀원 손범규|풀캘린더 API 연동<br> 제품 추천<br> 캘린더 페이지 제작 및 기능 구현<br> 캘린더 모달 출력 기능 구현|
 |팀원 유청하|카카오 지도 API 연동<br> 체중 관리<br> 체조성 기록<br> 주변 헬스장 찾기 페이지 제작 및 기능 구현|
-|팀원 전범준|ERD 다이어그램 제작<br> 식단 API 연동<br> 식단 관리 페이지 및 기능 구현<br> 캘린더에 식단 리스트 모달 출력 기능 구현<br> 공지사항 페이지 및 기능 구현
+|팀원 전범준|ERD 다이어그램 제작<br> 식단 API 연동<br> 식단 관리 페이지 및 기능 구현<br> 캘린더에 식단 리스트 모달 출력 기능 구현<br> 공지사항 페이지 구현 및 기능 구현 <br> 공지사항 페이지 조회수 구현
 #
 ## 📌 주요기능
 - 체중 관리 / 식단 관리 / 체조성 기록 / 주변 헬스장 찾기
@@ -50,3 +50,27 @@
 #
 ## 주요기능
 [발표자료](https://docs.google.com/presentation/d/1aFiRfCkb3Yd7xzLqmzZPHlQKbqLlj_A8/edit#slide=id.g27f8e26b356_16_20)
+## 📌 ERD CLOUD
+  ![DML](https://github.com/yeomhojun1/DML/assets/135560342/bb3a6f18-6dac-4d4b-b235-f6a30134dcf9)
+#
+
+##
+## 👍 화면구현
+
+운동 추가 화면 구현<br>
+<img src="https://github.com/yeomhojun1/DML/assets/135560342/c866008e-97ff-4d93-bf06-d6464c0e3119">
+#
+
+내 운동 리스트 화면 구현<br>
+<img src="https://github.com/yeomhojun1/DML/assets/135560342/4e059cfc-a573-4c3b-8601-fa1b89a13205">
+#
+게시글 추가 화면 구현<br>
+<img src="https://github.com/yeomhojun1/DML/assets/135560342/acd7f18b-8f4c-45ba-8c0d-fa0b8f823455">
+#
+게시글 수정 화면 구현<br>
+<img src="https://github.com/yeomhojun1/DML/assets/135560342/3f96595e-8d39-4773-90d7-5ede444affca">
+#
+댓글 화면 구현<br>
+<img src="https://github.com/yeomhojun1/DML/assets/135560342/612c5db3-bb07-47c1-9c5c-57cbd13ca042">
+
+
